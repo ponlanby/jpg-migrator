@@ -4,6 +4,11 @@ import java.io.File;
 import java.util.List;
 
 /**
+ * @Author tonruochen
+ * @Date 2021/1/3
+ **/
+
+/**
  * 文件操作adapter
  */
 public interface FileSysAdapter {

@@ -3,6 +3,11 @@ package com.ponlanby.jpgmigrator.application;
 import com.ponlanby.jpgmigrator.domain.shared.Result;
 
 /**
+ * @Author tonruochen
+ * @Date 2021/1/3
+ **/
+
+/**
  * 图片迁移的app service
  */
 public interface JpgMigrateAppService {

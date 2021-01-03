@@ -4,6 +4,11 @@ import com.google.common.base.Objects;
 import lombok.Data;
 
 /**
+ * @Author tonruochen
+ * @Date 2021/1/3
+ **/
+
+/**
  * 迁移任务聚合，保存迁移路径的映射关系
  */
 @Data

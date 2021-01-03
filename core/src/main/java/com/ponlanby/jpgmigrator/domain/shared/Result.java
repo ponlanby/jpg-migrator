@@ -4,6 +4,11 @@ import lombok.Data;
 
 import java.io.Serializable;
 
+/**
+ * @Author tonruochen
+ * @Date 2021/1/3
+ **/
+
 @Data
 public class Result implements Serializable {
 
